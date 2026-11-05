@@ -1,0 +1,13 @@
+﻿
+
+USUARIOS DE PRUEBA
+  admin          / admin123      Administrador
+  invitado       / invitado123   Invitado (solo consulta de productos)
+  cajero_manana  / cajero123     Cajero turno Mañana  (6:00 a.m.  - 1:59 p.m.)
+  cajero_tarde   / cajero123     Cajero turno Tarde   (2:00 p.m.  - 9:59 p.m.)
+  cajero_noche   / cajero123     Cajero turno Noche   (10:00 p.m. - 5:59 a.m.)
+
+TURNOS: el cajero solo puede entrar dentro de su horario (segun la hora de la PC).
+
+
+

@@ -1,0 +1,7 @@
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe.config
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.exe
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\bin\Debug\GestionAlmacen.pdb
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.exe
+C:\Users\alexa\Downloads\GestionAlmacen (1)\GestionAlmacen\GestionAlmacen\obj\Debug\GestionAlmacen.pdb
